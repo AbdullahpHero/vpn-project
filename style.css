@@ -1,0 +1,158 @@
+body{
+    font-family: sans-serif,'Poppins';
+   
+    background: linear-gradient(#aeffe7, #cfd1e2);
+  
+}
+
+body:hover{
+    box-shadow: 80px 80px 100px orange;
+}
+.slider{
+
+    padding-top : 100px;
+}
+.container{
+    padding-top: 25px;
+}
+.scroll-text{
+    color: orange;
+  
+    font-size: 30px;
+    font-weight: 600;
+
+}
+
+.scroll-text:hover{
+    background-color: blueviolet;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 1px 10px 100px orange;
+}
+
+.services{
+    color: orangered;
+    font-family: 'poppins';
+    text-align: center;
+    background-color: antiquewhite;
+    border-radius: 10px;
+}
+.services:hover{
+    background-color: orange;
+    color: white;
+    box-shadow: 1px 10px 100px orange;
+    animation: 3s infinite alternate slidein;
+}
+
+.video{
+    align-items: center;
+
+}
+.col2{
+    padding: 50px;
+}
+.items-list{
+    color: black;
+    padding: 10px;
+    font-size: 30px;
+   
+}
+.card-text{
+   color: black;
+}
+.card-text:hover{
+background-color: darkgrey;
+color: white;
+}
+.btn-link{
+    background-color: orangered;
+    color: white;
+    padding: 10px 25px 10px 25px;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+    align-items: center;
+}
+.btn-link:hover{
+    color: white;
+    background-color: darkgray;
+}
+button{
+    align-items: center;
+}
+.pricing{
+    color: orangered;
+    font-family: 'poppins';
+    text-align: center;
+    background-color: antiquewhite;
+    border-radius: 10px;
+}
+.pricing:hover{
+    background-color: orange;
+    color: white;
+    box-shadow: 1px 10px 100px orange;
+    animation: 3s infinite alternate slidein;
+}
+.value-top{
+    color: orangered;
+    font-family: 'poppins';
+    text-align: center;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    font-size: 40px;
+  font-weight: 800;
+}
+.value-top:hover{
+    background-color: orange;
+    color: white;
+    box-shadow: 1px 10px 100px orange;
+    animation: 3s infinite alternate slidein;
+}
+.card-title{
+    padding-bottom: 50px;
+    font-family: 'Poppins', sans-serif;
+}
+section{
+    background-color: bisque;
+    padding: 25px 0 50px 0;
+}
+.head3{
+    font-size: 45px;
+    text-align: justify;
+}
+
+
+
+
+.likns{
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    font-weight: 800;
+}
+.form{
+    background-color:rgb(182, 196, 182);
+    border-radius: 5px;
+    border: none;
+    padding: 15px;
+    box-shadow: 10px 10px 50px black;
+    font-size: 20px;
+    width: 400px;
+}
+.subscribe{
+    align-items: center;
+}
+.middle{
+    text-align: center;
+}
+.fotter-highlight:hover{
+    color: white;
+    background-color: orangered;
+}
+.fotter-highlight{
+    text-align: center;
+    padding: 50px;
+}
